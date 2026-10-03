@@ -93,5 +93,5 @@ Python, pandas, NumPy, matplotlib, seaborn, SciPy, scikit-learn, Jupyter
 
 ## Author
 
-**<Your Name>**
-[LinkedIn](https://www.linkedin.com/in/<your-profile>) | [GitHub](https://github.com/<your-username>)
+**<Himanshi>**
+[LinkedIn](https://www.linkedin.com/in/<himanshii5809>) | [GitHub](https://github.com/<himanshii5809-analyst>)
